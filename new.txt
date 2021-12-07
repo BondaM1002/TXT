@@ -1,1 +1,3 @@
 MAria, 30 years, pets are absent
+Favorite film is Hidden Figures. Favorite season is Summer. Favorite Series is "Sex in the City". Country to visit is Spain
+Hard skills: Working with git, Testing API with Postman, Basic knowledge SQL, Performance testing with Jmetr
